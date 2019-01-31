@@ -1,0 +1,4 @@
+mypy>=0.660
+cryptography>=0.8.2
+wechatpy[cryptography]
+Flask
